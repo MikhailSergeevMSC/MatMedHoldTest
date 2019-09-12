@@ -1,0 +1,18 @@
+.tableWrapper {
+  height: 100vh;
+  width: calc(100vw / 3);
+  display: flex;
+  justify-content: center;
+  overflow-y: auto;
+}
+.table{
+  width: 100%;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.tableRow{
+  cursor: pointer;
+}
+.tableRow:hover{
+  background-color: #81d4fa;
+}
