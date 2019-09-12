@@ -6,7 +6,7 @@ https://nodejs.org/en/
 
 Установка и запуск в режиме development:
 ``` bash
-$ cd app-test
+$ cd test-app
 $ npm install
 $ npm start
 ```
